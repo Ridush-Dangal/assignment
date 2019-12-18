@@ -1,0 +1,2 @@
+print("ridush")
+uppercase(ridush)

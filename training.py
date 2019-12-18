@@ -1,0 +1,13 @@
+sub1=int(input("enter the first subject mark\n"))
+sub2=int(input("enter the second subject mark\n"))
+sub3=int(input("enter the third subject marks\n"))
+sub4=int(input("enter the fourth subject marks\n"))
+sub5=int(input("enter the fourth subject marks\n"))
+l=[]
+l.append(sub1)
+l.append(sub2)
+l.append(sub3)
+l.append(sub4)
+l.append(sub5)
+add = sum(l)
+print(add)
